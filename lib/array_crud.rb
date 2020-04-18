@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["Maiden", "Sabbath", "Megadeth", "Slayer"]
-  
+  add_element_to_end_of_array << "Iced Earth"
 end
 
 def add_element_to_start_of_array(array, element)
