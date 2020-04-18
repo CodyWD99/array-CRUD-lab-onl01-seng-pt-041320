@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- best bands = ["Maiden", "Sabbath", "Megadeth", "Slayer"]
-   << "Iced Earth"
+ best_bands = ["Maiden", "Sabbath", "Megadeth", "Slayer"]
+  best_bands << "Iced Earth"
 end
 
 def add_element_to_start_of_array(array, element)
