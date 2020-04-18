@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- best_bands = ["Maiden", "Sabbath", "Megadeth", "Slayer"]
+ best_bands =
   best_bands << "Iced Earth"
 end
 
